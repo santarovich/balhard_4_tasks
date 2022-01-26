@@ -6,7 +6,6 @@
 
 
 def get_values(collection: dict):
-    # TODO вставить код сюда
     result = collection.values()
     return result
 

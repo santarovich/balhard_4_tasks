@@ -33,7 +33,6 @@ USERS = {
 
 
 def check_in(users: dict, key: Any) -> bool:
-    # TODO вставить код сюда
     result = key in users
     return result
 
